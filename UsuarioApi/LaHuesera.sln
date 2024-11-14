@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conectar", "Conectar\Conect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loggeo", "Loggeo\Loggeo.csproj", "{66D864F1-C165-411E-BAB7-E4E6DA1DEC25}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaestroLaHuesera", "MaestroLaHuesera\MaestroLaHuesera.csproj", "{176800F3-51DF-4B2C-83C8-B1312421AF59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{66D864F1-C165-411E-BAB7-E4E6DA1DEC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66D864F1-C165-411E-BAB7-E4E6DA1DEC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66D864F1-C165-411E-BAB7-E4E6DA1DEC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176800F3-51DF-4B2C-83C8-B1312421AF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176800F3-51DF-4B2C-83C8-B1312421AF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176800F3-51DF-4B2C-83C8-B1312421AF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176800F3-51DF-4B2C-83C8-B1312421AF59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

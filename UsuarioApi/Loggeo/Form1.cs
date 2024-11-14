@@ -19,6 +19,11 @@ namespace Loggeo
 
         private void btIniciar_Click(object sender, EventArgs e)
         {
+            string usuario = txUsuario.Text;
+            string contrasenia=txContrasenia.Text;
+
+
+
             MessageBox.Show("Iniciando...");
         }
     }
